@@ -2,20 +2,74 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0c44d755-e883-487c-a9af-ba949e7831de" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/product-list/modal.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/upload/Marlin6556.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/upload/marlin1439.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/upload/marlin8541.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/upload/marlin9526.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/upload/marlin9558.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/upload/marlin9658.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/upload/marlin9695.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/Rail.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/Rail99.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/Rail991.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/Rail992.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/Rail993.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/Rail994.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/Rail995.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/Rail996.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/Roscoe24.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/Stache.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/Stache971.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/Stache972.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/Stache973.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/Stache974.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/Stache975.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/Stache976.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/StachePhotoBike.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/Supercaliber.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/farley.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/farley51.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/farley52.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/farley53.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/farley54.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/farley55.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/farley56.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/farleyPhoto.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/fs41212.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/fs45252.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/fs46332.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/fs47474.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/fs49191.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/fs49665.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/marlin1439.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/marlin8541.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/marlin9526.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/marlin9558.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/marlin9658.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/marlin9695.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/powerFly.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/powerflyPhoto.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/xtr.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/xtr1245.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/xtr6516.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/xtr8612.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/xtr9541.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/xtr9595.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/xtr9621.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/product-list/data.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/product-list/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/product-list/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/product-list/modal.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/product-list/modal.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/product-list/styles.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/product-list/styles.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/upload/Marlin6Women.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/upload/Marlin6Women.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/upload/Marlin6556.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/Marlin6556.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/upload/Marlin6Women.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/Marlin6Women.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/upload/Precaliber.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/Precaliber.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/upload/Slash7NX.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/Slash7NX.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/upload/Slash98XT.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/Slash98XT.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/upload/TopFuel7SX.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/TopFuel7SX.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/upload/XCaliber9.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/XCaliber9.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/upload/background.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/background.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/upload/cart.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/icons/cart.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/upload/logo.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/icons/logo.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/upload/marlin1439.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/upload/marlin8541.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/upload/marlin9526.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/upload/marlin9558.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/upload/marlin9658.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/upload/marlin9695.jpg" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,7 +79,13 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/product-list/styles.js" root0="SKIP_INSPECTION" />
+  </component>
   <component name="ProjectId" id="1oWKfW7GjhQuNGU7Y35yc5vOwcx" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -42,10 +102,14 @@
     <property name="nodejs_package_manager_path" value="yarn" />
     <property name="prettierjs.PrettierConfiguration.Package" value="C:\Users\aleks\AppData\Roaming\npm\node_modules\prettier" />
     <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+    <property name="ts.external.directory.path" value="C:\Users\aleks\AppData\Local\JetBrains\Toolbox\apps\WebStorm\ch-0\203.7148.54\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\GitHub Projects\mountain-bikes\src\icons" />
+      <recent name="E:\GitHub Projects\mountain-bikes\public\images" />
+      <recent name="E:\GitHub Projects\mountain-bikes\public" />
       <recent name="E:\GitHub Projects\mountain-bikes\src\upload" />
       <recent name="C:\Users\aleks\WebstormProjects\mountain-bikes\src\upload" />
     </key>
@@ -88,7 +152,10 @@
       <workItem from="1614091828610" duration="27000" />
       <workItem from="1614092401404" duration="20000" />
       <workItem from="1614337683864" duration="16758000" />
-      <workItem from="1614507915993" duration="1750000" />
+      <workItem from="1614507915993" duration="2950000" />
+      <workItem from="1614589748968" duration="20682000" />
+      <workItem from="1614619085343" duration="3998000" />
+      <workItem from="1614627875036" duration="4403000" />
     </task>
     <servers />
   </component>
