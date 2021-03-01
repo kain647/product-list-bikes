@@ -66,12 +66,12 @@ export const Number = styled.div`
   right: 20px;
   bottom: 40px;
 `;
-export const Cover = styled.div`
+export const Cover = styled.image`
   display: flex;
   align-items: center;
   justify-content: center;
   grid-area: cover;
-  background-image: ${({ bg }) => `url(${bg})`};
+  background-image: url(images/background.jpg);
   background-size: cover;
   margin-right: 6px;
   color: #fff;
@@ -128,9 +128,9 @@ export const PhotoBike = styled.div`
 `;
 export const BrandBike = styled.div`
   text-transform: uppercase;
+  text-align: center;
 `;
 export const ProductTitle = styled.div`
-  max-width: 12ch;
   text-align: center;
   font-size: 20px;
   font-weight: 500;
@@ -148,7 +148,7 @@ export const Subtitle = styled.div`
   line-height: 1.5em;
   font-size: 14px;
   overflow: hidden;
-	margin-bottom: auto;
+  margin-bottom: auto;
 `;
 export const DetailButton = styled.button`
   font-weight: 500;
@@ -196,8 +196,9 @@ export const ProductImage = styled.div`
   display: flex;
   margin-bottom: 40px;
 `;
-export const ProductBrand = styled.div`
+export const RidingType = styled.div`
   display: flex;
+  text-align: center;
   text-transform: uppercase;
   font-size: 16px;
   letter-spacing: 1px;
@@ -208,6 +209,7 @@ export const ProductModalTitle = styled.div`
   max-width: none;
   font-weight: 500;
   margin: 20px 0;
+  text-transform: capitalize;
 `;
 export const ProductPrice = styled.div`
   display: flex;
