@@ -1,7 +1,7 @@
 export const data = {
-  marlin: {
+  MarlinBike: {
     title: "new",
-    photo: "Marlin6Women.jpg" ,
+    photo: "Marlin6Women.jpg",
     type: "Cross Country",
     productTitle: "marlin 6 women's",
     price: "$699.99",
@@ -31,9 +31,9 @@ export const data = {
     productGrid5: "marlin9558.jpg",
     productGrid6: "marlin1439.jpg"
   },
-  superCaliber: {
+  SuperCaliberBike: {
     title: "new",
-    photo: "superCaliber.jpg",
+    photo: "Supercaliber.jpg",
     type: "Cross Country",
     productTitle: "Supercaliber 9.9 XTR",
     price: "$9,499",
@@ -64,7 +64,7 @@ export const data = {
     productGrid4: "xtr6516.jpg",
     productGrid6: "xtr9595.jpg"
   },
-  powerFly: {
+  PowerFlyBike: {
     title: "new",
     photo: "powerFly.jpg",
     type: "Cross Country, Trail",
@@ -99,7 +99,7 @@ export const data = {
     productGrid4: "fs47474.jpg",
     productGrid6: "fs49191.jpg"
   },
-  Rail: {
+  RailBike: {
     title: "new",
     photo: "rail.jpg",
     type: "Enduro / All-Mountain",
@@ -133,7 +133,7 @@ export const data = {
     productGrid5: "rail995.jpg",
     productGrid6: "rail996.jpg"
   },
-  Farley: {
+  FarleyBike: {
     title: "2020",
     photo: "farley.jpg",
     type: "Trail / All-Mountain",
@@ -166,7 +166,7 @@ export const data = {
     productGrid5: "farley55.jpg",
     productGrid6: "farley56.jpg"
   },
-  Stache: {
+  StacheBike: {
     title: "2020",
     photo: "Stache.jpg",
     type: "Cross Country",
