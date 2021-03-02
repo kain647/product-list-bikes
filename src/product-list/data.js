@@ -74,7 +74,7 @@ export const data = {
       "Powerfly FS 4 is the gateway to more exciting trail adventures. It's a full-suspension electric mountain bike that pairs the capability of a 130 mm trail bike with the power of a Bosch motor. A 10-speed drivetrain and a strong aluminium frame with Trek's easy-to-use Removable Integrated Battery (RIB) help you take on more rugged trails with comfort and confidence.",
     features:
       "You like singletrack trails and want an e-MTB with a more capable full suspension set-up so you can take on more rugged adventures and stay comfortable and efficient when you do. A durable Alpha Aluminium frame that fully encases a long-life 500 Wh battery, a powerful Bosch Performance CX 250w drive system that helps you sustain speeds of up to 25 km/h and an ergonomic Purion controller. Plus, a SR Suntour XCR 34 130mm suspension fork with an adjustable air spring, a 130 mm RockShox Deluxe RL shock, a 10-speed Shimano drivetrain and hydraulic disc brakes. Full suspension lets you take on bigger, more technical trails. It's more comfortable, more efficient and faster in rough terrain. You're getting great parts and a powerful Bosch e-MTB system, but the biggest advantage of Powerfly FS 4 is the suspension package built for better riding on rugged trail adventures. Bosch's Performance Line CX motor is made specifically for off-road use with more torque and power for better acceleration. The intelligent eMTB mode automatically adjusts the amount of assist to match the terrain. It's a set-and-forget mode that delivers just the right amount of power. You get optimum control, traction and battery life so you can focus on enjoying the ride. RIB is a one-piece battery and cover with a built-in handle that can easily be removed and re-installed in the frame with no tools and no hassle. It’s the most convenient way to remove your battery for transport, security or just easier charging. Active Braking Pivot allows our engineers to tune how the suspension reacts to acceleration and braking forces independently. That means you get more confident control when you need it most. Trek's Straight Shot frame design optimises the stiffness-to-weight ratio for a more responsive ride. You'll be able to push harder and stay more planted on your line when the going gets rough. To see how far you can ride your electric mountain bike on a single charge, check out Bosch’s range calculator. We’ve auto-filled the variables for this bike model and the average rider, but you can make adjustments to get your most accurate estimate.",
-    photoBike: "powerflyphoto.jpg",
+    photoBike: "powerflyPhoto.jpg",
     frame:
       "Alpha Platinum Aluminium, Removable Integrated Battery (RIB), tapered head tube, Knock Block, Control Freak internal routing, Motor Armor, magnesium rocker link, Mino Link, ABP, Boost148, 130 mm travel",
     fork:
@@ -126,12 +126,12 @@ export const data = {
     motor:
       "Bosch Performance CX, magnesium motor body, 250 watt, 85 Nm, 25 km/h (15.5 mph) max assist, 32 km/h for New Zealand",
     weight: "M - 22.47 kg / 49.54 lb (with tubes)",
-    productGrid1: "rail991.jpg",
-    productGrid2: "rail992.jpg",
-    productGrid3: "rail993.jpg",
-    productGrid4: "rail994.jpg",
-    productGrid5: "rail995.jpg",
-    productGrid6: "rail996.jpg"
+    productGrid1: "Rail991.jpg",
+    productGrid2: "Rail992.jpg",
+    productGrid3: "Rail993.jpg",
+    productGrid4: "Rail994.jpg",
+    productGrid5: "Rail995.jpg",
+    productGrid6: "Rail996.jpg"
   },
   FarleyBike: {
     title: "2020",
@@ -176,7 +176,7 @@ export const data = {
       "Stache 9.7 is our lightest 29+ trail hardtail. It's built with an OCLV Mountain Carbon frame that's shockingly light for its oversized appearance, a premium RockShox Pike Select Plus fork with 120 mm of travel and performance parts like a SRAM Eagle drive train. The 3˝ mid-fat tyres and full carbon frame make it our most fun and capable hardtail mountain bike ever.",
     features:
       "You're all about fast and fun trail rides with your friends. But you want to have fun faster, so you want a carbon frame and a high-end spec you can rely on for long days in the saddle. A lightweight OCLV Mountain Carbon frame with Stranglehold dropouts, a 120 mm RockShox Pike Select Plus fork with Solo Air spring and Motion control damper, a SRAM GX Eagle 1x12 drive train and SRAM Guide R hydraulic disc brakes. Plus, SUNringlé Duroc 50 mm rims, included tubeless rim tape and valves, 29x3˝ Bontrager XR2 Team Issue TLR tyres, a Bontrager Line dropper post and a 35 mm Bontrager Line Pro carbon handlebar to match the burly disposition of this go-anywhere, ride-anything monster. The Stache 9.7 pairs the light and smooth ride of carbon with the traction and momentum of 29+ mid-fat tyres to make a fun trail hardtail that holds its own with both the distance-crushing XC crowd and your rowdy trail-riding buddies. Stache is surprisingly nimble thanks to extra-short 420 mm chainstays. The elevated mid-stay makes room for the extra-big tyres while Horizontal Sliding Dropouts allow you to fine-tune your wheelbase length. 29+ is a wider 3\" tyre that grips relentlessly while floating over terrain. Yet it delivers all the 29er benefits that you know and love, like greater momentum and improved rollover. ",
-    photoBike: "stachePhotoBike.jpg",
+    photoBike: "StachePhotoBike.jpg",
     frame:
       "OCLV Mountain Carbon, tapered head tube, internal derailleur & dropper post routing, 148x12 mm horizontal sliding adjustable thru-axle dropouts",
     fork:
