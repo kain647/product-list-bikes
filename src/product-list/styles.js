@@ -252,7 +252,7 @@ export const ProductOption = styled.button`
   cursor: pointer;
   &.ProductTable {
     display: flex;
-    width: 70%;
+    width: 100%;
     justify-content: center;
     border-color: #323132;
     border-radius: 4px;
